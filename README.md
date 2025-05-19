@@ -35,6 +35,9 @@
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Wolfinn.png)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wolfinn974&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfinn974&layout=compact&theme=tokyonight)
+
 
 ## 🔍 Featured Projects
 
@@ -43,6 +46,7 @@
 - [`Bugbounty-Toolkit`](https://github.com/Wolfinn974/Bugbounty-Toolkit) – Tools and scripts for reconnaissance and automation.
 
 ---
+
 
 <!-- ## 📫 Contact Me
 
