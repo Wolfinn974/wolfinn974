@@ -32,7 +32,7 @@
 
 ## 🏅 My TryHackMe Badge
 
-![TryHackMe Badge]([https://tryhackme-badges.s3.amazonaws.com/3609356.png](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3609356))
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Wolfinn.png)
 
 ---
 
