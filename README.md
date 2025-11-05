@@ -7,19 +7,20 @@
 	•	👩‍🏫 Teaching IT & coding: Python exercises, Scratch projects, LEGO Spike Prime robotics.
 
 ## 🤝 I’m looking to collaborate on:
-- 🔐 Offensive security and ethical hacking projects.
-- 🧰 Custom tools for penetration testing.
-- 🌐 Web vulnerability automation and scanning.
+	•	🔐 Offensive security / ethical hacking projects.
+	•	🧰 Custom scripts and automation for pentesting.
+	•	🌐 Web vulnerability scanning and automation.
 
 ## 💡 I’m looking for help with:
-- 🐍 Advanced Python development and clean code practices.
-- 🧪 Writing automated tests and improving code coverage.
-- 🔄 Streamlining GitHub Actions and automation workflows.
+	•	🐍 Advanced Python development and clean code practices.
+	•	🧪 Writing automated tests and improving code coverage.
+	•	🔄 Streamlining GitHub Actions and automation workflows.
 
 ## 🌱 I’m currently learning:
-- 🕸️ Web exploitation techniques (XSS, SQLi, LFI, etc.).
-- 📡 Networking fundamentals and packet analysis.
-- 🧠 Advanced bug bounty methodology and target reconnaissance.
+	•	🕸️ Web exploitation techniques (XSS, SQLi, LFI…).
+	•	📡 Networking fundamentals & packet analysis.
+	•	🧠 Advanced bug bounty methodology and target recon.
+	•	💻 Application development as part of my Bachelor in Computer Science.
 
 ## 💬 Ask me about:
 - 🧑‍💻 TryHackMe & Hack The Box paths and writeups.
@@ -27,7 +28,7 @@
 - ⚙️ Bash scripting, HTTP requests, and Burp Suite usage.
 
 ## ⚡ Fun fact:
-> I’m turning what I learn in labs and CTFs into tools and scripts I actually use to improve my workflow and automate the boring stuff.
+> I love turning what I learn in labs, classes, and CTFs into practical tools, study materials, and scripts that actually make life easier.
 
 ---
 
@@ -45,6 +46,7 @@
 - [`Cybersec-Writeups`](https://github.com/Wolfinn974/Cybersec-Writeups) – Writeups for HTB and THM challenges.
 - [`Port-scanner`](https://github.com/Wolfinn974/Port-scanner) – A simple TCP port scanner built in Python.
 - [`Bugbounty-Toolkit`](https://github.com/Wolfinn974/Bugbounty-Toolkit) – Tools and scripts for reconnaissance and automation.
+- [`Fur-Minal`](https://github.com/Wolfinn974/Fur-Minal) - Rebuilt Shell Unix in C
 
 ---
 
