@@ -1,9 +1,10 @@
 # 👋 Hi there, I'm Wolfinn974
 
-## 🔭 I’m currently working on:
-- 🛠️ Cybersecurity tools like port scanners and TCP clients.
-- 🐚 Shell scripts to automate bug bounty tasks and reconnaissance.
-- 📓 Writeups for TryHackMe and Hack The Box challenges.
+## 🔭 II’m currently up to:
+	•	🛠️ Building cybersecurity tools in Python and C (port scanners, TCP clients, ethical keyloggers…).
+	•	🐚 Automating security tasks and bug bounty workflows with shell scripts.
+	•	📓 Writing detailed writeups for TryHackMe and Hack The Box challenges.
+	•	👩‍🏫 Teaching IT & coding: Python exercises, Scratch projects, LEGO Spike Prime robotics.
 
 ## 🤝 I’m looking to collaborate on:
 - 🔐 Offensive security and ethical hacking projects.
