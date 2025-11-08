@@ -47,6 +47,7 @@
 - [`Port-scanner`](https://github.com/Wolfinn974/Port-scanner) – A simple TCP port scanner built in Python.
 - [`Bugbounty-Toolkit`](https://github.com/Wolfinn974/Bugbounty-Toolkit) – Tools and scripts for reconnaissance and automation.
 - [`Fur-Minal`](https://github.com/Wolfinn974/Fur-Minal) - Rebuilt Shell Unix in C
+- [`Python-Study-Material`](https://github.com/Wolfinn974/Python-Teaching-Materials) - My own study material for my students(kids beteween 10-14 years old)
 
 ---
 
