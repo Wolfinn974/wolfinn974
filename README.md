@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Wolfinn974
 
-## 🔭 II’m currently up to:
+## 🔭 I’m currently up to:
 	•	🛠️ Building cybersecurity tools in Python and C (port scanners, TCP clients, ethical keyloggers…).
 	•	🐚 Automating security tasks and bug bounty workflows with shell scripts.
 	•	📓 Writing detailed writeups for TryHackMe and Hack The Box challenges.
@@ -48,6 +48,7 @@
 - [`Bugbounty-Toolkit`](https://github.com/Wolfinn974/Bugbounty-Toolkit) – Tools and scripts for reconnaissance and automation.
 - [`Fur-Minal`](https://github.com/Wolfinn974/Fur-Minal) - Rebuilt Shell Unix in C
 - [`Python-Study-Material`](https://github.com/Wolfinn974/Python-Teaching-Materials) - My own study material for my students(kids beteween 10-14 years old)
+- [`Auto-Evaluation-Tool`](https://github.com/Wolfinn974/Auto-Evaluation-Tool) - My own auto-evaluator for my students(kids beteween 10-14 years old)
 
 ---
 
